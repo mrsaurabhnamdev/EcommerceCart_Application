@@ -5,10 +5,10 @@ About the project
 1. Entity Package 
 Defines core database models.
 
-1. Product – Represents available products.
-2. CartItems – Stores items added to the cart.
-3. ShoppingCart – Manages cart-related operations.
-4. Order – Handles order placement and tracking.
+ Product – Represents available products.
+ CartItems – Stores items added to the cart.
+ ShoppingCart – Manages cart-related operations.
+ Order – Handles order placement and tracking.
 
 2. Repository Package 
 Handles database operations using Spring JPA.
